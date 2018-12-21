@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "vue-cli-service serve --port 3000",
+    "dev": "vue-cli-service serve --port 8888",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "storybook": "start-storybook -p 3001",
+    "storybook": "start-storybook -p 8889",
     "build:storybook": "build-storybook"
   },
   "dependencies": {
